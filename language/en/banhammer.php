@@ -28,37 +28,37 @@ $lang = array_merge($lang, array(
 
 	'ERROR_BAN_EMAIL'	=> 'Banning the email failed.',
 	'ERROR_BAN_IP'		=> 'Banning the IP failed.',
-	'ERROR_BAN_USER'	=> 'Banning the users name failed.',
-	'ERROR_DEL_POSTS'	=> 'Deleting the users posts failed.',
+	'ERROR_BAN_USER'	=> 'Banning the username failed.',
+	'ERROR_DEL_POSTS'	=> 'Deleting the user\'s posts failed.',
 	'ERROR_MOVE_GROUP'	=> 'Moving user to the selected group failed.',
 	'ERROR_SFS'			=> 'Error with reporting to the Stop Forum Spam database',
 
-	'BH_BAN_EMAIL'			=> 'Ban this users email address',
-	'BH_BAN_GIVE_REASON'	=> 'The reason for this ban shown to the user',
-	'BH_BAN_IP'				=> 'Ban this users IP address',
-	'BH_BAN_IP_EXPLAIN'		=> '<strong>Be careful with this.</strong> Most home users have dynamic IP addresses and only need to reboot their router/modem to get a new IP address. The next day that IP address might be assigned to a user you want on your site. Spammers also uses internet anonymity proxies or the Tor network making a IP ban pointless.',
+	'BH_BAN_EMAIL'			=> 'Ban this user\'s email address',
+	'BH_BAN_GIVE_REASON'	=> 'Reason for this ban to be shown to the user',
+	'BH_BAN_IP'				=> 'Ban this user\'s IP address',
+	'BH_BAN_IP_EXPLAIN'		=> '<strong>Be careful with this.</strong> Most home users have dynamic IP addresses and only need to reboot their router to get a new IP address. The banned IP address might next be assigned to a user you want on the forums. Spammers also use internet anonymity proxies or the Tor network, making an IP ban pointless.',
 	'BH_BAN_LENGTH'			=> 'Ban this user for %s',
-	'BH_BAN_REASON'			=> 'The internal reason for this ban',
+	'BH_BAN_REASON'			=> 'Internal reason for this ban',
 	'BH_BAN_USER'			=> 'Ban this user for %s',
-	'BH_BAN_USER_PERM'		=> 'Ban this user name permanently',
-	'BH_BAN_EMAIL_PERM'		=> 'Ban this users email address permanently',
-	'BH_BAN_EMAIL_FOR'		=> 'Ban this users email address for %s',
-	'BH_BAN_IP_PERM'		=> 'Ban this users IP address permanently',
-	'BH_BAN_IP_FOR'			=> 'Ban this users IP address for %s',
-	'BH_BANNED'				=> 'This user is banned',
+	'BH_BAN_USER_PERM'		=> 'Ban this username permanently',
+	'BH_BAN_EMAIL_PERM'		=> 'Ban this user\'s email address permanently',
+	'BH_BAN_EMAIL_FOR'		=> 'Ban this user\'s email address for %s',
+	'BH_BAN_IP_PERM'		=> 'Ban this user\'s IP address permanently',
+	'BH_BAN_IP_FOR'			=> 'Ban this user\'s IP address for %s',
+	'BH_BANNED'				=> 'This user is banned.',
 
-	'BH_DEL_AVATAR'		=> 'Delete this users avatar',
-	'BH_DEL_PRIVMSGS'	=> 'Delete this users private messages',
-	'BH_DEL_POSTS'		=> 'Delete this users posts',
-	'BH_DEL_PROFILE'	=> 'Delete this users profile fields',
-	'BH_DEL_SIGNATURE'	=> 'Delete this users signature',
+	'BH_DEL_AVATAR'		=> 'Delete this user\'s avatar',
+	'BH_DEL_PRIVMSGS'	=> 'Delete this user\'s private messages',
+	'BH_DEL_POSTS'		=> 'Delete this user\'s posts',
+	'BH_DEL_PROFILE'	=> 'Delete this user\'s profile fields',
+	'BH_DEL_SIGNATURE'	=> 'Delete this user\'s signature',
 
 	'BH_MOVE_GROUP'	=> 'Move this user to group &quot;%s&quot;', // %s will be a group name
 
 	'BH_REASON'		=> 'Internal reason &quot;%s&quot;', // %s will be the reason
-	'BH_REASON_USER'	=> 'Reason to user &quot;%s&quot;', // %s will be the reason
+	'BH_REASON_USER'	=> 'Reason shown to user &quot;%s&quot;', // %s will be the reason
 
-	'BH_SUBMIT_SFS'	=> 'Submit to stop forum spam',
+	'BH_SUBMIT_SFS'	=> 'Submit to Stop Forum Spam',
 
 	'BH_THIS_USER'	=> 'Ban Hammer this user',
 

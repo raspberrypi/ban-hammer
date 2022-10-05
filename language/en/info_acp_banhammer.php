@@ -37,6 +37,6 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 $lang = array_merge($lang, array(
 	'ACP_BH_TITLE'		=> 'Ban Hammer',
-	'ACP_BH_SETTINGS'	=> 'Ban Hammer Settings',
-	'BH_SETTINGS_SUCCESS'		=> 'Ban Hammer settings were successfully updated',
+	'ACP_BH_SETTINGS'	=> 'Ban Hammer settings',
+	'BH_SETTINGS_SUCCESS'		=> 'Ban Hammer settings were successfully updated.',
 ));
